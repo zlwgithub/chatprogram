@@ -1,0 +1,132 @@
+[
+{
+  "directory": "/home/nowcoder/projects/qqchat/build/src/connectserver",
+  "command": "/usr/bin/g++   -I/home/nowcoder/projects/qqchat/include -I/home/nowcoder/projects/qqchat/include/chatclient -I/home/nowcoder/projects/qqchat/include/connectserver -I/home/nowcoder/projects/qqchat/include/rpcserver -I/home/nowcoder/projects/qqchat/middleware -I/home/nowcoder/projects/qqchat/middleware/mysql -I/home/nowcoder/projects/qqchat/middleware/protobuf -I/home/nowcoder/projects/qqchat/middleware/redis  -g -g   -o CMakeFiles/ConnectServer.dir/ConnectServerLauncher.cpp.o -c /home/nowcoder/projects/qqchat/src/connectserver/ConnectServerLauncher.cpp",
+  "file": "/home/nowcoder/projects/qqchat/src/connectserver/ConnectServerLauncher.cpp"
+},
+{
+  "directory": "/home/nowcoder/projects/qqchat/build/src/connectserver",
+  "command": "/usr/bin/g++   -I/home/nowcoder/projects/qqchat/include -I/home/nowcoder/projects/qqchat/include/chatclient -I/home/nowcoder/projects/qqchat/include/connectserver -I/home/nowcoder/projects/qqchat/include/rpcserver -I/home/nowcoder/projects/qqchat/middleware -I/home/nowcoder/projects/qqchat/middleware/mysql -I/home/nowcoder/projects/qqchat/middleware/protobuf -I/home/nowcoder/projects/qqchat/middleware/redis  -g -g   -o CMakeFiles/ConnectServer.dir/connectserver.cpp.o -c /home/nowcoder/projects/qqchat/src/connectserver/connectserver.cpp",
+  "file": "/home/nowcoder/projects/qqchat/src/connectserver/connectserver.cpp"
+},
+{
+  "directory": "/home/nowcoder/projects/qqchat/build/src/connectserver",
+  "command": "/usr/bin/g++   -I/home/nowcoder/projects/qqchat/include -I/home/nowcoder/projects/qqchat/include/chatclient -I/home/nowcoder/projects/qqchat/include/connectserver -I/home/nowcoder/projects/qqchat/include/rpcserver -I/home/nowcoder/projects/qqchat/middleware -I/home/nowcoder/projects/qqchat/middleware/mysql -I/home/nowcoder/projects/qqchat/middleware/protobuf -I/home/nowcoder/projects/qqchat/middleware/redis  -g -g   -o CMakeFiles/ConnectServer.dir/connectserverlog.cpp.o -c /home/nowcoder/projects/qqchat/src/connectserver/connectserverlog.cpp",
+  "file": "/home/nowcoder/projects/qqchat/src/connectserver/connectserverlog.cpp"
+},
+{
+  "directory": "/home/nowcoder/projects/qqchat/build/src/connectserver",
+  "command": "/usr/bin/g++   -I/home/nowcoder/projects/qqchat/include -I/home/nowcoder/projects/qqchat/include/chatclient -I/home/nowcoder/projects/qqchat/include/connectserver -I/home/nowcoder/projects/qqchat/include/rpcserver -I/home/nowcoder/projects/qqchat/middleware -I/home/nowcoder/projects/qqchat/middleware/mysql -I/home/nowcoder/projects/qqchat/middleware/protobuf -I/home/nowcoder/projects/qqchat/middleware/redis  -g -g   -o CMakeFiles/ConnectServer.dir/connectservice.cpp.o -c /home/nowcoder/projects/qqchat/src/connectserver/connectservice.cpp",
+  "file": "/home/nowcoder/projects/qqchat/src/connectserver/connectservice.cpp"
+},
+{
+  "directory": "/home/nowcoder/projects/qqchat/build/src/connectserver",
+  "command": "/usr/bin/g++   -I/home/nowcoder/projects/qqchat/include -I/home/nowcoder/projects/qqchat/include/chatclient -I/home/nowcoder/projects/qqchat/include/connectserver -I/home/nowcoder/projects/qqchat/include/rpcserver -I/home/nowcoder/projects/qqchat/middleware -I/home/nowcoder/projects/qqchat/middleware/mysql -I/home/nowcoder/projects/qqchat/middleware/protobuf -I/home/nowcoder/projects/qqchat/middleware/redis  -g -g   -o CMakeFiles/ConnectServer.dir/__/__/middleware/mysql/CommonConnectionPool.cpp.o -c /home/nowcoder/projects/qqchat/middleware/mysql/CommonConnectionPool.cpp",
+  "file": "/home/nowcoder/projects/qqchat/middleware/mysql/CommonConnectionPool.cpp"
+},
+{
+  "directory": "/home/nowcoder/projects/qqchat/build/src/connectserver",
+  "command": "/usr/bin/g++   -I/home/nowcoder/projects/qqchat/include -I/home/nowcoder/projects/qqchat/include/chatclient -I/home/nowcoder/projects/qqchat/include/connectserver -I/home/nowcoder/projects/qqchat/include/rpcserver -I/home/nowcoder/projects/qqchat/middleware -I/home/nowcoder/projects/qqchat/middleware/mysql -I/home/nowcoder/projects/qqchat/middleware/protobuf -I/home/nowcoder/projects/qqchat/middleware/redis  -g -g   -o CMakeFiles/ConnectServer.dir/__/__/middleware/mysql/Connection.cpp.o -c /home/nowcoder/projects/qqchat/middleware/mysql/Connection.cpp",
+  "file": "/home/nowcoder/projects/qqchat/middleware/mysql/Connection.cpp"
+},
+{
+  "directory": "/home/nowcoder/projects/qqchat/build/src/connectserver",
+  "command": "/usr/bin/g++   -I/home/nowcoder/projects/qqchat/include -I/home/nowcoder/projects/qqchat/include/chatclient -I/home/nowcoder/projects/qqchat/include/connectserver -I/home/nowcoder/projects/qqchat/include/rpcserver -I/home/nowcoder/projects/qqchat/middleware -I/home/nowcoder/projects/qqchat/middleware/mysql -I/home/nowcoder/projects/qqchat/middleware/protobuf -I/home/nowcoder/projects/qqchat/middleware/redis  -g -g   -o CMakeFiles/ConnectServer.dir/__/__/middleware/mysql/friendmodel.cpp.o -c /home/nowcoder/projects/qqchat/middleware/mysql/friendmodel.cpp",
+  "file": "/home/nowcoder/projects/qqchat/middleware/mysql/friendmodel.cpp"
+},
+{
+  "directory": "/home/nowcoder/projects/qqchat/build/src/connectserver",
+  "command": "/usr/bin/g++   -I/home/nowcoder/projects/qqchat/include -I/home/nowcoder/projects/qqchat/include/chatclient -I/home/nowcoder/projects/qqchat/include/connectserver -I/home/nowcoder/projects/qqchat/include/rpcserver -I/home/nowcoder/projects/qqchat/middleware -I/home/nowcoder/projects/qqchat/middleware/mysql -I/home/nowcoder/projects/qqchat/middleware/protobuf -I/home/nowcoder/projects/qqchat/middleware/redis  -g -g   -o CMakeFiles/ConnectServer.dir/__/__/middleware/mysql/groupmodel.cpp.o -c /home/nowcoder/projects/qqchat/middleware/mysql/groupmodel.cpp",
+  "file": "/home/nowcoder/projects/qqchat/middleware/mysql/groupmodel.cpp"
+},
+{
+  "directory": "/home/nowcoder/projects/qqchat/build/src/connectserver",
+  "command": "/usr/bin/g++   -I/home/nowcoder/projects/qqchat/include -I/home/nowcoder/projects/qqchat/include/chatclient -I/home/nowcoder/projects/qqchat/include/connectserver -I/home/nowcoder/projects/qqchat/include/rpcserver -I/home/nowcoder/projects/qqchat/middleware -I/home/nowcoder/projects/qqchat/middleware/mysql -I/home/nowcoder/projects/qqchat/middleware/protobuf -I/home/nowcoder/projects/qqchat/middleware/redis  -g -g   -o CMakeFiles/ConnectServer.dir/__/__/middleware/mysql/offlinemessagemodel.cpp.o -c /home/nowcoder/projects/qqchat/middleware/mysql/offlinemessagemodel.cpp",
+  "file": "/home/nowcoder/projects/qqchat/middleware/mysql/offlinemessagemodel.cpp"
+},
+{
+  "directory": "/home/nowcoder/projects/qqchat/build/src/connectserver",
+  "command": "/usr/bin/g++   -I/home/nowcoder/projects/qqchat/include -I/home/nowcoder/projects/qqchat/include/chatclient -I/home/nowcoder/projects/qqchat/include/connectserver -I/home/nowcoder/projects/qqchat/include/rpcserver -I/home/nowcoder/projects/qqchat/middleware -I/home/nowcoder/projects/qqchat/middleware/mysql -I/home/nowcoder/projects/qqchat/middleware/protobuf -I/home/nowcoder/projects/qqchat/middleware/redis  -g -g   -o CMakeFiles/ConnectServer.dir/__/__/middleware/mysql/usermodel.cpp.o -c /home/nowcoder/projects/qqchat/middleware/mysql/usermodel.cpp",
+  "file": "/home/nowcoder/projects/qqchat/middleware/mysql/usermodel.cpp"
+},
+{
+  "directory": "/home/nowcoder/projects/qqchat/build/src/connectserver",
+  "command": "/usr/bin/g++   -I/home/nowcoder/projects/qqchat/include -I/home/nowcoder/projects/qqchat/include/chatclient -I/home/nowcoder/projects/qqchat/include/connectserver -I/home/nowcoder/projects/qqchat/include/rpcserver -I/home/nowcoder/projects/qqchat/middleware -I/home/nowcoder/projects/qqchat/middleware/mysql -I/home/nowcoder/projects/qqchat/middleware/protobuf -I/home/nowcoder/projects/qqchat/middleware/redis  -g -g   -o CMakeFiles/ConnectServer.dir/__/__/middleware/redis/redis.cpp.o -c /home/nowcoder/projects/qqchat/middleware/redis/redis.cpp",
+  "file": "/home/nowcoder/projects/qqchat/middleware/redis/redis.cpp"
+},
+{
+  "directory": "/home/nowcoder/projects/qqchat/build/src/connectserver",
+  "command": "/usr/bin/g++   -I/home/nowcoder/projects/qqchat/include -I/home/nowcoder/projects/qqchat/include/chatclient -I/home/nowcoder/projects/qqchat/include/connectserver -I/home/nowcoder/projects/qqchat/include/rpcserver -I/home/nowcoder/projects/qqchat/middleware -I/home/nowcoder/projects/qqchat/middleware/mysql -I/home/nowcoder/projects/qqchat/middleware/protobuf -I/home/nowcoder/projects/qqchat/middleware/redis  -g -g   -o CMakeFiles/ConnectServer.dir/__/__/middleware/protobuf/qq.pb.cc.o -c /home/nowcoder/projects/qqchat/middleware/protobuf/qq.pb.cc",
+  "file": "/home/nowcoder/projects/qqchat/middleware/protobuf/qq.pb.cc"
+},
+{
+  "directory": "/home/nowcoder/projects/qqchat/build/src/rpcserver",
+  "command": "/usr/bin/g++   -I/home/nowcoder/projects/qqchat/include -I/home/nowcoder/projects/qqchat/include/chatclient -I/home/nowcoder/projects/qqchat/include/connectserver -I/home/nowcoder/projects/qqchat/include/rpcserver -I/home/nowcoder/projects/qqchat/middleware -I/home/nowcoder/projects/qqchat/middleware/mysql -I/home/nowcoder/projects/qqchat/middleware/protobuf -I/home/nowcoder/projects/qqchat/middleware/redis  -g -g   -o CMakeFiles/RpcServer.dir/RpcServerLauncher.cpp.o -c /home/nowcoder/projects/qqchat/src/rpcserver/RpcServerLauncher.cpp",
+  "file": "/home/nowcoder/projects/qqchat/src/rpcserver/RpcServerLauncher.cpp"
+},
+{
+  "directory": "/home/nowcoder/projects/qqchat/build/src/rpcserver",
+  "command": "/usr/bin/g++   -I/home/nowcoder/projects/qqchat/include -I/home/nowcoder/projects/qqchat/include/chatclient -I/home/nowcoder/projects/qqchat/include/connectserver -I/home/nowcoder/projects/qqchat/include/rpcserver -I/home/nowcoder/projects/qqchat/middleware -I/home/nowcoder/projects/qqchat/middleware/mysql -I/home/nowcoder/projects/qqchat/middleware/protobuf -I/home/nowcoder/projects/qqchat/middleware/redis  -g -g   -o CMakeFiles/RpcServer.dir/rpcserverlog.cpp.o -c /home/nowcoder/projects/qqchat/src/rpcserver/rpcserverlog.cpp",
+  "file": "/home/nowcoder/projects/qqchat/src/rpcserver/rpcserverlog.cpp"
+},
+{
+  "directory": "/home/nowcoder/projects/qqchat/build/src/rpcserver",
+  "command": "/usr/bin/g++   -I/home/nowcoder/projects/qqchat/include -I/home/nowcoder/projects/qqchat/include/chatclient -I/home/nowcoder/projects/qqchat/include/connectserver -I/home/nowcoder/projects/qqchat/include/rpcserver -I/home/nowcoder/projects/qqchat/middleware -I/home/nowcoder/projects/qqchat/middleware/mysql -I/home/nowcoder/projects/qqchat/middleware/protobuf -I/home/nowcoder/projects/qqchat/middleware/redis  -g -g   -o CMakeFiles/RpcServer.dir/__/__/middleware/mysql/CommonConnectionPool.cpp.o -c /home/nowcoder/projects/qqchat/middleware/mysql/CommonConnectionPool.cpp",
+  "file": "/home/nowcoder/projects/qqchat/middleware/mysql/CommonConnectionPool.cpp"
+},
+{
+  "directory": "/home/nowcoder/projects/qqchat/build/src/rpcserver",
+  "command": "/usr/bin/g++   -I/home/nowcoder/projects/qqchat/include -I/home/nowcoder/projects/qqchat/include/chatclient -I/home/nowcoder/projects/qqchat/include/connectserver -I/home/nowcoder/projects/qqchat/include/rpcserver -I/home/nowcoder/projects/qqchat/middleware -I/home/nowcoder/projects/qqchat/middleware/mysql -I/home/nowcoder/projects/qqchat/middleware/protobuf -I/home/nowcoder/projects/qqchat/middleware/redis  -g -g   -o CMakeFiles/RpcServer.dir/__/__/middleware/mysql/Connection.cpp.o -c /home/nowcoder/projects/qqchat/middleware/mysql/Connection.cpp",
+  "file": "/home/nowcoder/projects/qqchat/middleware/mysql/Connection.cpp"
+},
+{
+  "directory": "/home/nowcoder/projects/qqchat/build/src/rpcserver",
+  "command": "/usr/bin/g++   -I/home/nowcoder/projects/qqchat/include -I/home/nowcoder/projects/qqchat/include/chatclient -I/home/nowcoder/projects/qqchat/include/connectserver -I/home/nowcoder/projects/qqchat/include/rpcserver -I/home/nowcoder/projects/qqchat/middleware -I/home/nowcoder/projects/qqchat/middleware/mysql -I/home/nowcoder/projects/qqchat/middleware/protobuf -I/home/nowcoder/projects/qqchat/middleware/redis  -g -g   -o CMakeFiles/RpcServer.dir/__/__/middleware/mysql/friendmodel.cpp.o -c /home/nowcoder/projects/qqchat/middleware/mysql/friendmodel.cpp",
+  "file": "/home/nowcoder/projects/qqchat/middleware/mysql/friendmodel.cpp"
+},
+{
+  "directory": "/home/nowcoder/projects/qqchat/build/src/rpcserver",
+  "command": "/usr/bin/g++   -I/home/nowcoder/projects/qqchat/include -I/home/nowcoder/projects/qqchat/include/chatclient -I/home/nowcoder/projects/qqchat/include/connectserver -I/home/nowcoder/projects/qqchat/include/rpcserver -I/home/nowcoder/projects/qqchat/middleware -I/home/nowcoder/projects/qqchat/middleware/mysql -I/home/nowcoder/projects/qqchat/middleware/protobuf -I/home/nowcoder/projects/qqchat/middleware/redis  -g -g   -o CMakeFiles/RpcServer.dir/__/__/middleware/mysql/groupmodel.cpp.o -c /home/nowcoder/projects/qqchat/middleware/mysql/groupmodel.cpp",
+  "file": "/home/nowcoder/projects/qqchat/middleware/mysql/groupmodel.cpp"
+},
+{
+  "directory": "/home/nowcoder/projects/qqchat/build/src/rpcserver",
+  "command": "/usr/bin/g++   -I/home/nowcoder/projects/qqchat/include -I/home/nowcoder/projects/qqchat/include/chatclient -I/home/nowcoder/projects/qqchat/include/connectserver -I/home/nowcoder/projects/qqchat/include/rpcserver -I/home/nowcoder/projects/qqchat/middleware -I/home/nowcoder/projects/qqchat/middleware/mysql -I/home/nowcoder/projects/qqchat/middleware/protobuf -I/home/nowcoder/projects/qqchat/middleware/redis  -g -g   -o CMakeFiles/RpcServer.dir/__/__/middleware/mysql/offlinemessagemodel.cpp.o -c /home/nowcoder/projects/qqchat/middleware/mysql/offlinemessagemodel.cpp",
+  "file": "/home/nowcoder/projects/qqchat/middleware/mysql/offlinemessagemodel.cpp"
+},
+{
+  "directory": "/home/nowcoder/projects/qqchat/build/src/rpcserver",
+  "command": "/usr/bin/g++   -I/home/nowcoder/projects/qqchat/include -I/home/nowcoder/projects/qqchat/include/chatclient -I/home/nowcoder/projects/qqchat/include/connectserver -I/home/nowcoder/projects/qqchat/include/rpcserver -I/home/nowcoder/projects/qqchat/middleware -I/home/nowcoder/projects/qqchat/middleware/mysql -I/home/nowcoder/projects/qqchat/middleware/protobuf -I/home/nowcoder/projects/qqchat/middleware/redis  -g -g   -o CMakeFiles/RpcServer.dir/__/__/middleware/mysql/usermodel.cpp.o -c /home/nowcoder/projects/qqchat/middleware/mysql/usermodel.cpp",
+  "file": "/home/nowcoder/projects/qqchat/middleware/mysql/usermodel.cpp"
+},
+{
+  "directory": "/home/nowcoder/projects/qqchat/build/src/rpcserver",
+  "command": "/usr/bin/g++   -I/home/nowcoder/projects/qqchat/include -I/home/nowcoder/projects/qqchat/include/chatclient -I/home/nowcoder/projects/qqchat/include/connectserver -I/home/nowcoder/projects/qqchat/include/rpcserver -I/home/nowcoder/projects/qqchat/middleware -I/home/nowcoder/projects/qqchat/middleware/mysql -I/home/nowcoder/projects/qqchat/middleware/protobuf -I/home/nowcoder/projects/qqchat/middleware/redis  -g -g   -o CMakeFiles/RpcServer.dir/__/__/middleware/redis/redis.cpp.o -c /home/nowcoder/projects/qqchat/middleware/redis/redis.cpp",
+  "file": "/home/nowcoder/projects/qqchat/middleware/redis/redis.cpp"
+},
+{
+  "directory": "/home/nowcoder/projects/qqchat/build/src/rpcserver",
+  "command": "/usr/bin/g++   -I/home/nowcoder/projects/qqchat/include -I/home/nowcoder/projects/qqchat/include/chatclient -I/home/nowcoder/projects/qqchat/include/connectserver -I/home/nowcoder/projects/qqchat/include/rpcserver -I/home/nowcoder/projects/qqchat/middleware -I/home/nowcoder/projects/qqchat/middleware/mysql -I/home/nowcoder/projects/qqchat/middleware/protobuf -I/home/nowcoder/projects/qqchat/middleware/redis  -g -g   -o CMakeFiles/RpcServer.dir/__/__/middleware/protobuf/qq.pb.cc.o -c /home/nowcoder/projects/qqchat/middleware/protobuf/qq.pb.cc",
+  "file": "/home/nowcoder/projects/qqchat/middleware/protobuf/qq.pb.cc"
+},
+{
+  "directory": "/home/nowcoder/projects/qqchat/build/src/chatclient",
+  "command": "/usr/bin/g++   -I/home/nowcoder/projects/qqchat/include -I/home/nowcoder/projects/qqchat/include/chatclient -I/home/nowcoder/projects/qqchat/include/connectserver -I/home/nowcoder/projects/qqchat/include/rpcserver -I/home/nowcoder/projects/qqchat/middleware -I/home/nowcoder/projects/qqchat/middleware/mysql -I/home/nowcoder/projects/qqchat/middleware/protobuf -I/home/nowcoder/projects/qqchat/middleware/redis  -g -g   -o CMakeFiles/ChatClient.dir/ChatClientLauncher.cpp.o -c /home/nowcoder/projects/qqchat/src/chatclient/ChatClientLauncher.cpp",
+  "file": "/home/nowcoder/projects/qqchat/src/chatclient/ChatClientLauncher.cpp"
+},
+{
+  "directory": "/home/nowcoder/projects/qqchat/build/src/chatclient",
+  "command": "/usr/bin/g++   -I/home/nowcoder/projects/qqchat/include -I/home/nowcoder/projects/qqchat/include/chatclient -I/home/nowcoder/projects/qqchat/include/connectserver -I/home/nowcoder/projects/qqchat/include/rpcserver -I/home/nowcoder/projects/qqchat/middleware -I/home/nowcoder/projects/qqchat/middleware/mysql -I/home/nowcoder/projects/qqchat/middleware/protobuf -I/home/nowcoder/projects/qqchat/middleware/redis  -g -g   -o CMakeFiles/ChatClient.dir/clientinit.cpp.o -c /home/nowcoder/projects/qqchat/src/chatclient/clientinit.cpp",
+  "file": "/home/nowcoder/projects/qqchat/src/chatclient/clientinit.cpp"
+},
+{
+  "directory": "/home/nowcoder/projects/qqchat/build/src/chatclient",
+  "command": "/usr/bin/g++   -I/home/nowcoder/projects/qqchat/include -I/home/nowcoder/projects/qqchat/include/chatclient -I/home/nowcoder/projects/qqchat/include/connectserver -I/home/nowcoder/projects/qqchat/include/rpcserver -I/home/nowcoder/projects/qqchat/middleware -I/home/nowcoder/projects/qqchat/middleware/mysql -I/home/nowcoder/projects/qqchat/middleware/protobuf -I/home/nowcoder/projects/qqchat/middleware/redis  -g -g   -o CMakeFiles/ChatClient.dir/config.cpp.o -c /home/nowcoder/projects/qqchat/src/chatclient/config.cpp",
+  "file": "/home/nowcoder/projects/qqchat/src/chatclient/config.cpp"
+},
+{
+  "directory": "/home/nowcoder/projects/qqchat/build/src/chatclient",
+  "command": "/usr/bin/g++   -I/home/nowcoder/projects/qqchat/include -I/home/nowcoder/projects/qqchat/include/chatclient -I/home/nowcoder/projects/qqchat/include/connectserver -I/home/nowcoder/projects/qqchat/include/rpcserver -I/home/nowcoder/projects/qqchat/middleware -I/home/nowcoder/projects/qqchat/middleware/mysql -I/home/nowcoder/projects/qqchat/middleware/protobuf -I/home/nowcoder/projects/qqchat/middleware/redis  -g -g   -o CMakeFiles/ChatClient.dir/__/__/middleware/protobuf/qq.pb.cc.o -c /home/nowcoder/projects/qqchat/middleware/protobuf/qq.pb.cc",
+  "file": "/home/nowcoder/projects/qqchat/middleware/protobuf/qq.pb.cc"
+}
+]

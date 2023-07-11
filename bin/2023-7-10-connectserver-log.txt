@@ -1,0 +1,4 @@
+10:59:49=>[INFO]准备执行sql语句select * from user_ where userid = '3248'!
+10:59:49=>[INFO]准备sql语句select * from user_ where userid = '3248'成功!
+10:59:49=>[INFO]准备执行sql语句select * from user_ where userid = '3248'!
+10:59:59=>[INFO]准备sql语句select * from user_ where userid = '3248'成功!
